@@ -1,1 +1,2 @@
-# 95algfri-Login-Hom
+# 95algfri-Login-Homepage
+Hello, ini adalah repositori pertama yang saya buat sendiri untuk menguji kemampuan programmer saya, di repositori ini saya akan membuat login Homepage untuk website...
